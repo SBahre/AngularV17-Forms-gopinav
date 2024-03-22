@@ -123,7 +123,6 @@
       }
     }
   },
-  "defaultProject": "reactive-forms",
   "cli": {
     "analytics": "b8ba26d2-573d-4cfd-bb62-a2a3dad30495"
   }
